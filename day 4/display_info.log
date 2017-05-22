@@ -1,0 +1,15 @@
+INFO:root:Ran with args: ('Weber', 125), and kwargs: {}
+INFO:root:Ran with args: ('Weber', 125), and kwargs: {}
+INFO:root:Ran with args: ('Weber', 125), and kwargs: {}
+INFO:root:Ran with args: ('Weber', 125), and kwargs: {}
+INFO:root:Ran with args: ('Weber', 125), and kwargs: {}
+INFO:root:Ran with args: ('Weber', 125), and kwargs: {}
+INFO:root:Ran with args: ('Weber', 125), and kwargs: {}
+INFO:root:Ran with args: ('Weber', 125), and kwargs: {}
+INFO:root:Ran with args: ('Weber', 125), and kwargs: {'k': 'Hello'}
+INFO:root:Ran with args: ('Weber', 125), and kwargs: {'k': 'Hello'}
+INFO:root:Ran with args: ('Weber', 125), and kwargs: {'k': 'Hello'}
+INFO:root:Ran with args: ('Weber', 125), and kwargs: {'k': 'Hello'}
+INFO:root:Ran with args: (<function display_info at 0x000002A6E184CE18>,), and kwargs: {}
+INFO:root:Ran with args: ('Weber', 125), and kwargs: {'k': 'Hello'}
+INFO:root:Ran with args: ('Weber', 125), and kwargs: {'k': 'Hello'}
